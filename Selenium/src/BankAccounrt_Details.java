@@ -6,6 +6,8 @@ public class BankAccounrt_Details {
 	
 	String bankName;
 	
+	
+	//Code was Written as a part of Assignment on October -15-2020.
 	void withdraw() 
 	{
 		int balance;
